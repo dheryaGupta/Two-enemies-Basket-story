@@ -1,0 +1,6 @@
+basket1 
+basket2
+fruits
+forests
+bananas
+apples
